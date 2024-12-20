@@ -4,13 +4,8 @@
    "task_list_title_width": "350px",
    "task_list_items": [
       "Introduction",
-      "Wire up drives (data)",
-      "Wire up drives (power)",
-      "Turn on everything",
-      "Verify drives are seen",
-      "Create 16-drive volume",
-      "Run fio benchmarks",
-      "Run NFS benchmark",
-      "Questions & Answers"
+      "Read Journal Articles",
+      "Edit Dissertation",
+      "Korean Practice",
    ]
 }
